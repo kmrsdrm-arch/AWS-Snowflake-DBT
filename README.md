@@ -1,5 +1,6 @@
 # 🏠 Airbnb End-to-End Data Engineering Project
 
+
 ## 📋 Overview
 
 This project implements a complete end-to-end data engineering pipeline for Airbnb data using modern cloud technologies. The solution demonstrates best practices in data warehousing, transformation, and analytics using **Snowflake**, **dbt (Data Build Tool)**, and **AWS**.
@@ -359,5 +360,6 @@ This project is part of a data engineering portfolio demonstration.
 - [ ] Add alerting and monitoring
 - [ ] Implement data masking for PII
 - [ ] Add more comprehensive testing suite
-#   A W S - S n o w f l a k e - D B T  
+#   A W S - S n o w f l a k e - D B T 
+ 
  
